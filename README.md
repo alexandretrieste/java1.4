@@ -77,3 +77,14 @@ System.out.println("  Motor:");
 System.out.println("    Potência: " + carga.getMotor().getPotencia());
 System.out.println("    Tipo: " + carga.getMotor().getTipo());
 ```
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou correções.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://choosealicense.com/licenses/mit/).
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo no [GitHub](https://github.com/alexandretrieste).
