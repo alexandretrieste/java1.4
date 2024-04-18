@@ -30,7 +30,7 @@ public class Teste {
         veiculoCarga[1] = new Carga("GHI8901", "Volvo", "FH460", "Azul", 110, 8, 30000, 9000, 460, 6);
         veiculoCarga[2] = new Carga("JKL0123", "Mercedes-Benz", "Actros 2546", "Vermelho", 100, 10, 35000, 10000, 460, 6);
         veiculoCarga[3] = new Carga("MNO3456", "Ford", "Cargo 2428", "Amarelo", 100, 6, 15000, 5000, 280, 6);
-        veiculoCarga[4] = new Carga("PQR6789", "Iveco", "Stralis", "Verde", 130, 10, 28000, 8500, 460, 6);
+        veiculoCarga[4] = new Carga("PQR5789", "Iveco", "Stralis", "Verde", 130, 10, 28000, 8500, 460, 6);
 
         //Menu
         do{
